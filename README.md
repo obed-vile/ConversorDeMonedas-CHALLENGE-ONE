@@ -4,6 +4,9 @@
 
 Este proyecto es un conversor de monedas basado en Java que utiliza la API de ExchangeRate API para obtener tasas de cambio actualizadas en tiempo real. El usuario puede seleccionar entre varias opciones de conversión predefinidas y realizar cálculos basados en las tasas de cambio obtenidas dinámicamente.
 
+![image](https://github.com/user-attachments/assets/0b89dbfc-e8eb-45f5-863a-a6ff5dcb9608)
+
+
 ## 🚀 Características
 
 Conversión entre las siguientes monedas: 
